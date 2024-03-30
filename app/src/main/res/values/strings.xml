@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">Assignment5</string>
+  <string name="login_fail_message">Login Failed. Wrong Username or Password</string>
+  <string name="login_success_message">Login Success</string>
 </resources>
